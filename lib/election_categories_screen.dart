@@ -66,7 +66,7 @@ class _ElectionCategoriesScreenState extends State<ElectionCategoriesScreen> {
                 const SizedBox(height: 20),
                 const Text(
                   'Elections',
-                  style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
+                  style: TextStyle(fontSize: 30, fontWeight: FontWeight.bold),
                 ),
                 Expanded(
                   child: PageView(

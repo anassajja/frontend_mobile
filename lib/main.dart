@@ -38,7 +38,7 @@ class HomePage extends StatelessWidget {
           children: [
             SvgPicture.asset(
               'assets/logo.svg', // Ensure this path is correct
-              height: 120.0,
+              height: 100.0,
             ),
             const SizedBox(height: 20),
             const Text(

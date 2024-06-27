@@ -36,7 +36,7 @@ class ConfirmationScreen extends StatelessWidget {
                 },
                 child: SvgPicture.asset(
                   'assets/logo.svg', // Ensure the path to the logo is correct
-                  height: 120.0,
+                  height: 100.0,
                 ),
               ),
               const SizedBox(height: 20),

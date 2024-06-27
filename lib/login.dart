@@ -27,7 +27,7 @@ class LoginScreen extends StatelessWidget {
                 child: Center(
                   child: SvgPicture.asset(
                     'assets/logo.svg',
-                    height: 120.0,
+                    height: 100.0,
                   ),
                 ),
               ),
@@ -35,7 +35,7 @@ class LoginScreen extends StatelessWidget {
               const Text(
                 'Login',
                 style: TextStyle(
-                  fontSize: 36,
+                  fontSize: 30,
                   fontWeight: FontWeight.bold,
                 ),
               ),
